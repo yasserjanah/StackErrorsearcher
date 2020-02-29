@@ -1,6 +1,5 @@
 # StackErrorsearcher
-search for answers in stackoverflow.com 
-
+automatically search for answers for your errors in stakeoverflow.com using API
 ```
     [+] AUTOR:        Yasser Janah
     [+] GITHUB:       https://github.com/yasserjanah
